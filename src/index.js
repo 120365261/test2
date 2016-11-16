@@ -7,6 +7,8 @@ $.ready(function (error) {
     }
 
     $('#led-r').turnOn();
+    $('#led-r').turnOn();
+    $('#led-r').turnOn();
 });
 
 $.end(function () {
